@@ -2,7 +2,6 @@ import Footer5 from "../components/Footer5";
 import Header5 from "../components/Header5";
 import Main5 from "../components/Main5";
 import Navigation from "../components/Navigation";
-import SideBar5 from "../components/SideBar5";
 
 
 const Task5 = () => {
@@ -13,7 +12,7 @@ const Task5 = () => {
         <div className="absolute w-full top-0 -z-10">
           <Header5></Header5>
           <div className="flex">
-            <SideBar5></SideBar5>
+        
             <Main5></Main5>
           </div>
           <Footer5></Footer5>
