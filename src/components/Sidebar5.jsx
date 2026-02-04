@@ -6,4 +6,4 @@ const SideBar5 = () => {
   )
 }
 
-export default SideBar5
+export default SideBar5;
